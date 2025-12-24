@@ -1,0 +1,20 @@
+Reference,Qty,Value,DNP,Exclude from BOM,Exclude from Board,Footprint,Datasheet,,,,,,Part
+C1,1,220nF,,,,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,~,,,,,,
+"C2,C7,C10,C13",4,.1uF,,,,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,~,,,,,,
+"C3,C4,C8,C11,C14",5,470uF,,,,Capacitor_THT:CP_Radial_D10.0mm_P5.00mm,~,,,,,,https://www.digikey.co.nz/en/products/detail/kemet/A759MS477M1EAAE020/13676499
+"C5,C6,C9,C12,C15",5,1uF,,,,Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,~,,,,,,
+C16,1,1000uF,,,,Capacitor_THT:CP_Radial_D10.0mm_P5.00mm,~,,,,,,
+"D1,D2,D3,D4",4,SMBJ24A,,,,Diode_SMD:D_SMA-SMB_Universal_Handsoldering,,,,,,,
+D5,1,D_Zener,,,,Diode_SMD:D_SOD-123,~,,,,,,
+D6,1,SMCJ24A,,,,Diode_SMD:D_SMB-SMC_Universal_Handsoldering,,,,,,,
+F1,1,Fuse_1,,,,Fuse:Fuse_1206_3216Metric_Pad1.42x1.75mm_HandSolder,~,,,,,,https://www.digikey.co.nz/en/products/detail/bourns-inc/SF-1206F350M-2/14320025
+F2,1,Fuse_2,,,,Fuse:Fuse_1206_3216Metric_Pad1.42x1.75mm_HandSolder,~,,,,,,https://www.digikey.co.nz/en/products/detail/bourns-inc/SF-1206F350M-2/14320025
+F3,1,Fuse_3,,,,Fuse:Fuse_1206_3216Metric_Pad1.42x1.75mm_HandSolder,~,,,,,,https://www.digikey.co.nz/en/products/detail/bourns-inc/SF-1206F350M-2/14320025
+F4,1,Fuse_4,,,,Fuse:Fuse_1206_3216Metric_Pad1.42x1.75mm_HandSolder,~,,,,,,https://www.digikey.co.nz/en/products/detail/bourns-inc/SF-1206F350M-2/14320025
+F5,1,Fuse_0,,,,Fuse:Fuse_1206_3216Metric_Pad1.42x1.75mm_HandSolder,~,,,,,,https://www.digikey.co.nz/en/products/detail/schurter-inc/3413-0329-22/2644176
+Q4,1,DMP4010SK3-13,,,,Package_TO_SOT_SMD:TO-252-3_TabPin2,,,,,,,
+R2,1,0,DNP,,,Resistor_SMD:R_1206_3216Metric,~,,,,,,
+R3,1,100,,,,Resistor_SMD:R_0603_1608Metric,~,,,,,,
+R4,1,47k,,,,Resistor_SMD:R_0603_1608Metric,~,,,,,,
+R5,1,4.7k,,,,Resistor_SMD:R_1206_3216Metric,~,,,,,,
+R6,1,100k,,,,Resistor_SMD:R_0603_1608Metric,~,,,,,,
