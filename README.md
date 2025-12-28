@@ -19,8 +19,7 @@ This project addressess this by consolidating power delivery for up to five 65W 
 
 Full Video and build guide [here](youtube.com)
 
-<h2><span style="color:#ff4d4d;">Features</span></h2>
-
+## Features:
 - 1U 10 inch form factor - 234mm Deep (9.2")
 - 5x 65W USB-C outputs
 - Active cooling with 2x 40mm fans
