@@ -1,4 +1,4 @@
-# WIP
+# WIP!!!!!!!
 
 # **MiniLab PSU** - 5 Port Homelab USB-C PD Power Supply
 MiniLab PSU is a power delivery solution for micro PC clusters and homelabs that fits in a 1U 10-inch rack. It's built around a 300W Meanwell PSU featuring 5 USB-C power delivery ports and active cooling. 
@@ -96,4 +96,5 @@ Switched 24V is stepped down via an LM2596 to power chassis fans. The PCB has 2 
 | Connector | J17,J18             |           | 2        |                   | 1x03_2.54mm     |
 | Connector | J19,J20,J21,J22     |           | 4        |                   | 1x02_2.54mm     |
 | Mosfet    | Q1                  |           | 1        | TO-263-2L         | NCEP40PT15D     |
+
 
