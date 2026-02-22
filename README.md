@@ -22,14 +22,15 @@ This project addressess this by consolidating power delivery for up to five 65W 
 Full Video and build guide [here](youtube.com)
 
 ## Features:
-- 1U 10 inch form factor - 234mm Deep (9.2")
-- 5x 65W USB-C outputs
-- Active cooling with 2x 40mm fans
+- Variants for both 10" and 9"
+- 5 & 10 65W output options
+- All variants have cooling
 - Meanwell PSU
 - Built around XPM52C PD chips
 
 ## PCB: ##
-The PCB is 2 layers and 1.6mm. "PCB/1U Minilab PSU V2" folder contains both the source and production files. The production files can be uploaded to JLCPCB or PCBWAY for manufacturing or PCB assembly. PCB assembly is recommended unless you have capability to do reflow soldering.
+The PCB is 2 layers and 1.6mm. "PCB/1U Minilab PSU V2" folder contains both the source and production files. The production files can be uploaded to a site like JLCPCB or PCBWAY for manufacturing or PCB assembly. PCB assembly is recommended unless you have capability to do reflow or hot air soldering.
+All variants use the same base PCB.
 
 ## Housing: ##
 **Facia:**
@@ -96,5 +97,6 @@ Switched 24V is stepped down via an LM2596 to power chassis fans. The PCB has 2 
 | Connector | J17,J18             |           | 2        |                   | 1x03_2.54mm     |
 | Connector | J19,J20,J21,J22     |           | 4        |                   | 1x02_2.54mm     |
 | Mosfet    | Q1                  |           | 1        | TO-263-2L         | NCEP40PT15D     |
+
 
 
