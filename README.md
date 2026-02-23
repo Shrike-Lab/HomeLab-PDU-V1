@@ -45,20 +45,9 @@ This project addressess this by consolidating power delivery for up to five 65W 
 - Sheet metal housing or fully 3D printable
 
 
-## PCB: ##
-The PCB is 2 layers and 1.6mm. "PCB/1U Minilab PSU V2" folder contains the production files, which can be uploaded to a PCB service like JLCPCB or PCBWAY. PCB assembly is recommended unless you have capability to do reflow, or hot air soldering.
-There is currently no option for a through-hole variant because the tranistor does not come in that package.
 
-## Housing: ##
-All variants of housing can be found in the CAD folder, 
-
-## Cooling: ##
-Switched 24V is stepped down via an LM2596 to power chassis fans. The PCB has 2 fan headers, one for the PCB fan and an optional header for swapping out the PSU fan if it's too loud.
-
-## Assembly:
-
-
-### Components
+# Assembly:
+## Components
 
 | Part        | Quantity | Notes                                  | Link                                                                            |
 | ----------- | -------- | -------------------------------------- | ------------------------------------------------------------------------------- |
@@ -87,10 +76,10 @@ Switched 24V is stepped down via an LM2596 to power chassis fans. The PCB has 2 
 | PCB_Tray.stl          | 3D Print | 1     | CAD/Universal/PCB_Tray.stl            |
 
 **Hardware:**
-
 | Part | Source | Count | Link |
 | ---- | ------ | ----- | ---- |
 |      |        |       |      |
+
 
 ## 10 Inch - 3D Printed:
 <p float="left">
@@ -98,7 +87,6 @@ Switched 24V is stepped down via an LM2596 to power chassis fans. The PCB has 2 
 </p>
 
 **Housing:**
-
 | Part                 | Source   | Quant | Link                             |
 | -------------------- | -------- | ----- | -------------------------------- |
 | 10in_3D-Bottom_1.stl | 3D Print | 1     | CAD/10in_3D/10in_3D-Bottom_1.stl |
@@ -110,22 +98,21 @@ Switched 24V is stepped down via an LM2596 to power chassis fans. The PCB has 2 
 | 10in_3D-Right.stl    | 3D Print | 1     | CAD/10in_3D/10in_3D-Right.stl    |
 | 10in_3D-Top_1.stl    | 3D Print | 1     | CAD/10in_3D/10in_3D-Top_1.stl    |
 | 10in_3D-Top_2.stl    | 3D Print | 1     | CAD/10in_3D/10in_3D-Top_2.stl    |
-**Hardware:**
 
+**Hardware:**
 | Part               | Source | Quant | Link |
 | ------------------ | ------ | ----- | ---- |
 | M3 Threaded Insert |        | TBD   |      |
 | M4 10MM Bolt       |        | TBD   |      |
 | M3 12mm Bolt       |        | TBD   |      |
-**Electronics:**
 
-## 10 Inch - Dual External:
+
+### 10 Inch - Dual External:
 <p float="left">
   <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/10in_Dual/10in_Dual-Iso.png" width="60%" /> 
 </p>
 
-**Housing:*
-
+**Housing:**
 | Part                | Source   | Quant | Link                              |
 | ------------------- | -------- | ----- | --------------------------------- |
 | 10in_Dual-Tray.stp  | Metal    | 1     | CAD/10in_Dual/10in_Dual-Tray.stp  |
@@ -135,7 +122,6 @@ Switched 24V is stepped down via an LM2596 to power chassis fans. The PCB has 2 
 | PCB_Tray.stl        | 3D Print | 2     | CAD/Universal/PCB_Tray.stl        |
 
 **Hardware:**
-
 | Part | Source | Count | Link |
 | ---- | ------ | ----- | ---- |
 |      |        |       |      |
@@ -143,13 +129,12 @@ Switched 24V is stepped down via an LM2596 to power chassis fans. The PCB has 2 
 |      |        |       |      |
 
 
-#### 19in_Single:
+### 19 Inch - Single:
 <p float="left">
   <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/19in_Single/19in_Single-Iso.png" width="60%" /> 
 </p>
 
 **Housing:**
-
 | Part                    | Source   | Count | Link                                    |
 | ----------------------- | -------- | ----- | --------------------------------------- |
 | 19in_Single-Tray.stp    | Metal    | 1     | CAD/19in_SIngle/19in_Single-Tray.stp    |
@@ -161,17 +146,21 @@ Switched 24V is stepped down via an LM2596 to power chassis fans. The PCB has 2 
 | 19in_Single-Divider.stl | 3D Print | 1     | CAD/19in_SIngle/19in_Single-Divider.stl |
 | IEC_Bracket.stl         | 3D Print | 1     | CAD/Universal/IEC_Bracket.stl           |
 | PCB_Tray.stl            | 3D Print | 1     | CAD/Universal/PCB_Tray.stl              |
+
 **Hardware:**
+| Part | Source | Count | Link |
+| ---- | ------ | ----- | ---- |
+|      |        |       |      |
+|      |        |       |      |
+|      |        |       |      |
 
 
-
-#### 19in_Dual:
+### 19 Inch - Dual:
 <p float="left">
   <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/19in_Dual/19in_Dual-Iso.png" width="60%" /> 
 </p>
 
 **Housing:**
-
 | Part                  | Source   | Count | Link                                |
 | --------------------- | -------- | ----- | ----------------------------------- |
 | 19in_Dual-Tray.stp    | Metal    | 1     | CAD/19in_Dual/19in_Dual-Tray.stp    |
@@ -182,10 +171,19 @@ Switched 24V is stepped down via an LM2596 to power chassis fans. The PCB has 2 
 | 19in_Dual-Rear_2.stl  | 3D Print | 1     | CAD/19in_Dual/19in_Dual-Rear_2.stl  |
 | IEC_Bracket.stl       | 3D Print | 2     | CAD/Universal/IEC_Bracket.stl       |
 | PCB_Tray.stl          | 3D Print | 2     | CAD/Universal/PCB_Tray.stl          |
+
 **Hardware:**
+| Part | Source | Count | Link |
+| ---- | ------ | ----- | ---- |
+|      |        |       |      |
+|      |        |       |      |
+|      |        |       |      |
 
 
 # PCB:
+All variants use the same 2 layer 1.6mm PCB. 'PCB' folder contains production files that can be uploaded to a PCB service like JLCPCB or PCBway. PCB assembly is recommended unless you have capability to do reflow, or hot air soldering.
+There is currently no option for a through-hole variant because the tranistor does not come in that package.
+
 | Type      | Key                 | Value     | Quantity | Footprint         | Component       |
 | --------- | ------------------- | --------- | -------- | ----------------- | --------------- |
 | Capacitor | C1                  | 1000uF    | 1        | THT-CP_Radial_D10 |                 |
@@ -208,6 +206,7 @@ Switched 24V is stepped down via an LM2596 to power chassis fans. The PCB has 2 
 | Connector | J17,J18             |           | 2        |                   | 1x03_2.54mm     |
 | Connector | J19,J20,J21,J22     |           | 4        |                   | 1x02_2.54mm     |
 | Mosfet    | Q1                  |           | 1        | TO-263-2L         | NCEP40PT15D     |
+
 
 
 
