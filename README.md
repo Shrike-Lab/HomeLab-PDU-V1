@@ -54,8 +54,32 @@ Switched 24V is stepped down via an LM2596 to power chassis fans. The PCB has 2 
 | PD Boards   | 5        |                                        | https://www.aliexpress.com/item/1005007016771773                                |
 
 
-### BOM:
-#### 10in_3D:
+# Variants:
+
+## 10 Inch - Single:
+<p float="left">
+  <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/10in_Single/10in_Single-Iso.png" width="60%" /> 
+</p>
+**Housing:*
+
+| Part                  | Source   | Quant | Link                                  |
+| --------------------- | -------- | ----- | ------------------------------------- |
+| 10in_Single-Tray.stp  | Metal    | 1     | CAD/10in_Single/10in_Single-Tray.stl  |
+| 10in_Single-Lid.stp   | Metal    | 1     | CAD/10in_Single/10in_Single-Lid.stl   |
+| 10in_Single-Front.stl | 3D Print | 1     | CAD/10in_Single/10in_Single-Front.stl |
+| 10in_Single-Rear.stl  | 3D Print | 1     | CAD/10in_Single/10in_Single-Rear.stl  |
+| PCB_Tray.stl          | 3D Print | 1     | CAD/Universal/PCB_Tray.stl            |
+
+**Hardware:**
+
+| Part | Source | Count | Link |
+| ---- | ------ | ----- | ---- |
+|      |        |       |      |
+
+## 10 Inch - 3D Printed:
+<p float="left">
+  <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/10in_3D/10in_3D-Iso.png" width="60%" /> 
+</p>
 **Housing:**
 
 | Part                 | Source   | Quant | Link                             |
@@ -78,12 +102,10 @@ Switched 24V is stepped down via an LM2596 to power chassis fans. The PCB has 2 
 | M3 12mm Bolt       |        | TBD   |      |
 **Electronics:**
 
-| Part | Source | Quant | Link |
-| ---- | ------ | ----- | ---- |
-|      |        |       |      |
-
-
-#### 10in_Dual:
+## 10 Inch - Dual External:
+<p float="left">
+  <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/10in_Dual/10in_Dual-Iso.png" width="60%" /> 
+</p>
 **Housing:*
 
 | Part                | Source   | Quant | Link                              |
@@ -100,23 +122,6 @@ Switched 24V is stepped down via an LM2596 to power chassis fans. The PCB has 2 
 | ---- | ------ | ----- | ---- |
 |      |        |       |      |
 |      |        |       |      |
-|      |        |       |      |
-
-#### 10in_Single:
-**Housing:*
-
-| Part                  | Source   | Quant | Link                                  |
-| --------------------- | -------- | ----- | ------------------------------------- |
-| 10in_Single-Tray.stp  | Metal    | 1     | CAD/10in_Single/10in_Single-Tray.stl  |
-| 10in_Single-Lid.stp   | Metal    | 1     | CAD/10in_Single/10in_Single-Lid.stl   |
-| 10in_Single-Front.stl | 3D Print | 1     | CAD/10in_Single/10in_Single-Front.stl |
-| 10in_Single-Rear.stl  | 3D Print | 1     | CAD/10in_Single/10in_Single-Rear.stl  |
-| PCB_Tray.stl          | 3D Print | 1     | CAD/Universal/PCB_Tray.stl            |
-
-**Hardware:**
-
-| Part | Source | Count | Link |
-| ---- | ------ | ----- | ---- |
 |      |        |       |      |
 
 
@@ -182,5 +187,6 @@ Switched 24V is stepped down via an LM2596 to power chassis fans. The PCB has 2 
 | Connector | J17,J18             |           | 2        |                   | 1x03_2.54mm     |
 | Connector | J19,J20,J21,J22     |           | 4        |                   | 1x02_2.54mm     |
 | Mosfet    | Q1                  |           | 1        | TO-263-2L         | NCEP40PT15D     |
+
 
 
