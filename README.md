@@ -55,58 +55,63 @@ Switched 24V is stepped down via an LM2596 to power chassis fans. The PCB has 2 
 
 
 ### BOM:
-**Universal**
-
-
-
 #### 10in_3D:
 **Housing:**
 
-| Part                 | Source   | Count | Link |
-| -------------------- | -------- | ----- | ---- |
-| 10in_3D-Bottom_1.stl | 3D Print | 1     |      |
-| 10in_3D-Bottom_2.stl | 3D Print | 1     |      |
-| 10in_3D-Front.stl    | 3D Print | 1     |      |
-| 10in_3D-Left.stl     | 3D Print | 1     |      |
-| 10in_3D-Mid.stl      | 3D Print | 1     |      |
-| 10in_3D-Rear.stl     | 3D Print | 1     |      |
-| 10in_3D-Right.stl    | 3D Print | 1     |      |
-| 10in_3D-Top_1.stl    | 3D Print | 1     |      |
-| 10in_3D-Top_2.stl    | 3D Print | 1     |      |
+| Part                 | Source   | Quant | Link                             |
+| -------------------- | -------- | ----- | -------------------------------- |
+| 10in_3D-Bottom_1.stl | 3D Print | 1     | CAD/10in_3D/10in_3D-Bottom_1.stl |
+| 10in_3D-Bottom_2.stl | 3D Print | 1     | CAD/10in_3D/10in_3D-Bottom_2.stl |
+| 10in_3D-Front.stl    | 3D Print | 1     | CAD/10in_3D/10in_3D-Front.stl    |
+| 10in_3D-Left.stl     | 3D Print | 1     | CAD/10in_3D/10in_3D-Left.stl     |
+| 10in_3D-Mid.stl      | 3D Print | 1     | CAD/10in_3D/10in_3D-Mid.stl      |
+| 10in_3D-Rear.stl     | 3D Print | 1     | CAD/10in_3D/10in_3D-Rear.stl     |
+| 10in_3D-Right.stl    | 3D Print | 1     | CAD/10in_3D/10in_3D-Right.stl    |
+| 10in_3D-Top_1.stl    | 3D Print | 1     | CAD/10in_3D/10in_3D-Top_1.stl    |
+| 10in_3D-Top_2.stl    | 3D Print | 1     | CAD/10in_3D/10in_3D-Top_2.stl    |
 **Hardware:**
 
-| Part               | Source | Count | Link |
+| Part               | Source | Quant | Link |
 | ------------------ | ------ | ----- | ---- |
 | M3 Threaded Insert |        | TBD   |      |
 | M4 10MM Bolt       |        | TBD   |      |
 | M3 12mm Bolt       |        | TBD   |      |
+**Electronics:**
+
+| Part | Source | Quant | Link |
+| ---- | ------ | ----- | ---- |
+|      |        |       |      |
+
 
 #### 10in_Dual:
 **Housing:*
 
-| Part                | Source   | Count | Link |
-| ------------------- | -------- | ----- | ---- |
-| 10in_Dual-Tray.stp  | Metal    | 1     |      |
-| 10in_Dual-Lid.stp   | Metal    | 1     |      |
-| 10in_Dual-Front.stl | 3D Print | 1     |      |
-| 10in_Dual-Rear.stl  | 3D Print | 1     |      |
+| Part                | Source   | Quant | Link                              |
+| ------------------- | -------- | ----- | --------------------------------- |
+| 10in_Dual-Tray.stp  | Metal    | 1     | CAD/10in_Dual/10in_Dual-Tray.stp  |
+| 10in_Dual-Lid.stp   | Metal    | 1     | CAD/10in_Dual/10in_Dual-Lid.stp   |
+| 10in_Dual-Front.stl | 3D Print | 1     | CAD/10in_Dual/10in_Dual-Front.stl |
+| 10in_Dual-Rear.stl  | 3D Print | 1     | CAD/10in_Dual/10in_Dual-Rear.stl  |
+| PCB_Tray.stl        | 3D Print | 2     | CAD/Universal/PCB_Tray.stl        |
 
 **Hardware:**
 
 | Part | Source | Count | Link |
 | ---- | ------ | ----- | ---- |
 |      |        |       |      |
+|      |        |       |      |
+|      |        |       |      |
 
 #### 10in_Single:
 **Housing:*
 
-| Part                  | Source   | Count | Link |
-| --------------------- | -------- | ----- | ---- |
-| 10in_Single-Tray.stp  | Metal    | 1     |      |
-| 10in_Single-Lid.stp   | Metal    | 1     |      |
-| 10in_Single-Front.stl | 3D Print | 1     |      |
-| 10in_Single-Rear.stl  | 3D Print | 1     |      |
-| PCB_Tray.stl          | 3D Print | 1     |      |
+| Part                  | Source   | Quant | Link                                  |
+| --------------------- | -------- | ----- | ------------------------------------- |
+| 10in_Single-Tray.stp  | Metal    | 1     | CAD/10in_Single/10in_Single-Tray.stl  |
+| 10in_Single-Lid.stp   | Metal    | 1     | CAD/10in_Single/10in_Single-Lid.stl   |
+| 10in_Single-Front.stl | 3D Print | 1     | CAD/10in_Single/10in_Single-Front.stl |
+| 10in_Single-Rear.stl  | 3D Print | 1     | CAD/10in_Single/10in_Single-Rear.stl  |
+| PCB_Tray.stl          | 3D Print | 1     | CAD/Universal/PCB_Tray.stl            |
 
 **Hardware:**
 
@@ -118,34 +123,34 @@ Switched 24V is stepped down via an LM2596 to power chassis fans. The PCB has 2 
 #### 19in_Dual:
 **Housing:**
 
-| Part                  | Source   | Count | Link |
-| --------------------- | -------- | ----- | ---- |
-| 19in_Dual-Tray.stp    | Metal    | 1     |      |
-| 19in_Dual-Lid.stp     | Metal    | 1     |      |
-| 19in_Dual-Front_1.stl | 3D Print | 1     |      |
-| 19in_Dual-Front_2.stl | 3D Print | 1     |      |
-| 19in_Dual-Rear_1.stl  | 3D Print | 1     |      |
-| 19in_Dual-Rear_2.stl  | 3D Print | 1     |      |
-| IEC_Bracket.stl       | 3D Print | 2     |      |
-| PCB_Tray.stl          | 3D Print | 2     |      |
+| Part                  | Source   | Count | Link                                |
+| --------------------- | -------- | ----- | ----------------------------------- |
+| 19in_Dual-Tray.stp    | Metal    | 1     | CAD/19in_Dual/19in_Dual-Tray.stp    |
+| 19in_Dual-Lid.stp     | Metal    | 1     | CAD/19in_Dual/19in_Dual-Lid.stp     |
+| 19in_Dual-Front_1.stl | 3D Print | 1     | CAD/19in_Dual/19in_Dual-Front_1.stl |
+| 19in_Dual-Front_2.stl | 3D Print | 1     | CAD/19in_Dual/19in_Dual-Front_2.stl |
+| 19in_Dual-Rear_1.stl  | 3D Print | 1     | CAD/19in_Dual/19in_Dual-Rear_1.stl  |
+| 19in_Dual-Rear_2.stl  | 3D Print | 1     | CAD/19in_Dual/19in_Dual-Rear_2.stl  |
+| IEC_Bracket.stl       | 3D Print | 2     | CAD/Universal/IEC_Bracket.stl       |
+| PCB_Tray.stl          | 3D Print | 2     | CAD/Universal/PCB_Tray.stl          |
 **Hardware:**
 
 
 #### 19in_Single:
 **Housing:**
 
-| Part                    | Source   | Count | Link |
-| ----------------------- | -------- | ----- | ---- |
-| 19in_Single-Tray.stp    | Metal    | 1     |      |
-| 19in_Single-Lid.stp     | Metal    | 1     |      |
-| 19in_Single-Front_1.stl | 3D Print | 1     |      |
-| 19in_Single-Front_2.stl | 3D Print | 1     |      |
-| 19in_Single-Rear_1.stl  | 3D Print | 1     |      |
-| 19in_Single-Rear_2.stl  | 3D Print | 1     |      |
-| 19in_Single-Divider.stl | 3D Print | 1     |      |
-| IEC_Bracket.stl         | 3D Print | 1     |      |
-| PCB_Tray.stl            | 3D Print | 1     |      |
-**Hardware**
+| Part                    | Source   | Count | Link                                    |
+| ----------------------- | -------- | ----- | --------------------------------------- |
+| 19in_Single-Tray.stp    | Metal    | 1     | CAD/19in_SIngle/19in_Single-Tray.stp    |
+| 19in_Single-Lid.stp     | Metal    | 1     | CAD/19in_Single/19in_Single-Lid.stp     |
+| 19in_Single-Front_1.stl | 3D Print | 1     | CAD/19in_Single/19in_Single-Front_1.stl |
+| 19in_Single-Front_2.stl | 3D Print | 1     | CAD/19in_Single/19in_Single-Front_2.stl |
+| 19in_Single-Rear_1.stl  | 3D Print | 1     | CAD/19in_Single/19in_Single-Rear_1.stl  |
+| 19in_Single-Rear_2.stl  | 3D Print | 1     | CAD/19in_Single/19in_Single-Rear_2.stl  |
+| 19in_Single-Divider.stl | 3D Print | 1     | CAD/19in_SIngle/19in_Single-Divider.stl |
+| IEC_Bracket.stl         | 3D Print | 1     | CAD/Universal/IEC_Bracket.stl           |
+| PCB_Tray.stl            | 3D Print | 1     | CAD/Universal/PCB_Tray.stl              |
+**Hardware:**
 
 
 
