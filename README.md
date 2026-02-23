@@ -4,13 +4,12 @@ MiniLab PSU is a power delivery solution for micro PC clusters and homelabs that
 ### Kits and PCBs available now!: [Shrikelab.co](Shrikelab.co) ###
 
 <p float="left">
-  <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/ph-1.png" width="48%" />
-  <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/ph-2.png" width="48%" /> 
+  <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/All_Front.png" width="48%" />
+  <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/All_Iso.png" width="48%" /> 
 </p>
 
 <p float="left">
-  <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/ph-2.png" width="48%" /> 
-  <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/ph-2.png" width="48%" />
+  <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/All_Rear.png" width="100%" /> 
 </p>
 
 
@@ -177,3 +176,4 @@ Switched 24V is stepped down via an LM2596 to power chassis fans. The PCB has 2 
 | Connector | J17,J18             |           | 2        |                   | 1x03_2.54mm     |
 | Connector | J19,J20,J21,J22     |           | 4        |                   | 1x02_2.54mm     |
 | Mosfet    | Q1                  |           | 1        | TO-263-2L         | NCEP40PT15D     |
+
