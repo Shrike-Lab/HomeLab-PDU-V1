@@ -19,7 +19,7 @@ These PSUs are power delivery solutions for micro PC clusters and homelabs that 
 ---
 
 <p float="left">
-  <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/Logo/All_Iso_Render.png" width="100%" /> 
+  <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/RM-Img/Stacked.png" width="100%" /> 
 </p>
 
 <p float="center">
