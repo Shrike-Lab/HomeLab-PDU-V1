@@ -19,14 +19,8 @@ These PSUs are power delivery solutions for micro PC clusters and homelabs that 
 ---
 
 <p float="left">
-  <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/Logo/All_Iso_Render.png" width="100%" /> 
+  <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/RM-Img/Stacked.png" width="100%" /> 
 </p>
-
-<p float="center">
-  <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/Logo/All_Front.png" width="48%" /> 
-  <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/Logo/All_Rear.png" width="48%" /> 
-</p>
-
 
 Mini and micro labs are a great solution for homelabbing, but the power delivery options are often bulky and hard to manage due to the need for an individual power brick per computer.
 This project addressess this by consolidating power delivery for up to five 65W micro PCs into a single unit that fits in a standard 1U 10-inch rack mount. This differs from a conventional multi-port USB PD hub by not needing to re-negotiate any power delivery voltages when a unit is turned off or unpluggded, or when the power load across ports changes drastically. Also the packing is designed specifially with rack mounting in mind, with active cooling and power switching.
@@ -35,12 +29,16 @@ This project addressess this by consolidating power delivery for up to five 65W 
 
 **Follow-up and testing video** [here](youtube.com)
 
+
 ### Features:
 - Both 19" and 10" variants
 - Up to 10 x 65W USB-C outputs
 - 1U Height
 - Active cooling
 - Sheet metal housing or fully 3D printable
+
+<br>
+<br>
 
 # Variants:
 
