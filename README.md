@@ -128,8 +128,11 @@ For people that couldn't possibly deal with a power input in the middle of the h
 
 # Sub-Assemblies:
 ## PCB Tray:
-All non-3D printed variants use the PCB tray sub-assembly. This tray makes soldering the daughter boards easier, and allows the board to be removed from the chassis without a major hassle.
-
+All non-3D printed variants use the PCB tray sub-assembly. This tray makes soldering the daughter boards easier, and allows the board to be removed from the chassis easier.
+<p float="center">
+  <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/General/PCB-Bracket.png" width="48%" /> 
+  <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/General/PCB-SubAssembly.png" width="48%" />
+</p>
 
 
 # Assembly:
