@@ -50,7 +50,7 @@ This project helps fix this by consolidating power delivery for up to 10 65W mic
 
 # Variants:
 
-### 10 Inch - Single:
+## 10 Inch - Single:
 The original 10" enclosure, a sheet metal body + lid make up the housing, with a 3D printed front and rear. 5 outputs.
 <p float="center">
   <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/10in-Single/10in-Single-B.png" width="80%" /> 
@@ -62,7 +62,7 @@ The original 10" enclosure, a sheet metal body + lid make up the housing, with a
 <br>
 <br>
 
-### 10 Inch - 3D Printed - Unibody:
+## 10 Inch - 3D Printed - Unibody:
 10" printed unibody enclosure, made to be as easy as possible with minimal additional hardware, with the trade-off of being a little harder to print. No inserts required, all bolts thread directly into the print material. Small hatch for attaching button + fan and connecting wiring to PCB.
 <p float="center">
   <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/10in-Uni/10in-Uni-B.png" width="80%" /> 
@@ -74,7 +74,7 @@ The original 10" enclosure, a sheet metal body + lid make up the housing, with a
 <br>
 <br>
 
-### 10 Inch - 3D Printed - Modular:
+## 10 Inch - 3D Printed - Modular:
 10" printed enclosure, made to be more modular and mod-friendly but requires more M3 inserts and bolts to assebmle.
 <p float="center">
   <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/10in-Mod/10in-Mod-B.png" width="80%" /> 
@@ -86,7 +86,7 @@ The original 10" enclosure, a sheet metal body + lid make up the housing, with a
 <br>
 <br>
 
-### 10 Inch - Dual:
+## 10 Inch - Dual:
 10" enclosure for external PSU's. 10 outputs, intended for use with alternative power sources like battery or solar, or for up-cycling external 300W PSUs.
 <p float="center">
   <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/10in-Dual/10in-Dual-B.png" width="80%" /> 
@@ -98,7 +98,7 @@ The original 10" enclosure, a sheet metal body + lid make up the housing, with a
 <br>
 <br>
 
-### 19 Inch - Single:
+## 19 Inch - Single:
 19" inch version of 5 output variant. Additional space could be used for cable / tiny-mini-micro storage.
 <p float="center">
   <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/19in-Single/19in-Single-B.png" width="80%" /> 
@@ -110,7 +110,7 @@ The original 10" enclosure, a sheet metal body + lid make up the housing, with a
 <br>
 <br>
 
-### 19 Inch - Dual:
+## 19 Inch - Dual:
 19" with 10 outputs from 2 x internal assemblies.
 <p float="center">
   <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/19in-Dual/19in-Dual-B.png" width="80%" /> 
@@ -122,7 +122,7 @@ The original 10" enclosure, a sheet metal body + lid make up the housing, with a
 <br>
 <br>
 
-### 19 Inch - SBS:
+## 19 Inch - SBS:
 For people that couldn't possibly deal with a power input in the middle of the housing, this version has matching components side-by-side so inputs and outputs can be coordinated easier. One harness will require extending due to the layout.
 <p float="center">
   <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/19in-SBS/19in-SBS-B.png" width="80%" /> 
@@ -134,14 +134,16 @@ For people that couldn't possibly deal with a power input in the middle of the h
 
 <br>
 <br>
+
 # Assembly:
+
 **Notes:**
 - All variants are built around the Meanwell HRP-300-24
 - All 3D printed parts will fit on a 220mm x 220mmm print bed
 - 
 
 ## Sub-Assemblies:
-## PCB Tray:
+### PCB Tray:
 All non-3D printed variants use the PCB tray sub-assembly. This tray makes soldering the daughter boards easier, and allows the board to be removed from the chassis easier.
 <p float="center">
   <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/General/PCB-Bracket.png" width="33%" /> 
@@ -149,19 +151,19 @@ All non-3D printed variants use the PCB tray sub-assembly. This tray makes solde
   <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/General/PCB-SubAssembly.png" width="33%" />
 </p>
 
-## PCB Assembly Bracket:
+### PCB Assembly Bracket:
 If additional assitance is required during assembly, this bracket (Yellow) can be printed to hold the boards in place. It's then removed when the assembly is installed into a chassis.
 <p float="center">
   <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/General/PCB-Assembly-Bracket.png" width="45%" /> 
 </p>
 
-## Daughter-Board Reinforcement:
-Once the daughter boards are attached to the main PCB, this reinforcement bracket (Gray) can be mounted to stop boards shifting over time.
+### Daughter-Board Reinforcement:
+Once the daughter boards are attached to the main PCB, this reinforcement bracket (Gray) can be mounted to stop boards shifting after repeat use.
 <p float="center">
   <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/General/PCB-Assembly-Reinforcement.png" width="45%" /> 
 </p>
 
-## IEC Plug:
+### IEC Plug:
 All 19" variants use the IEC plug subassembly to allow for a detachable cable.
 <p float="center">
   <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/General/IEC-Bracket.png" width="45%" /> 
