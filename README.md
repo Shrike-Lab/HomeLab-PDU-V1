@@ -161,10 +161,12 @@ All 19" variants use the IEC plug subassembly to allow for a detachable cable.
 All variants use the same 2 layer 1.6mm PCB. 'PCB' folder contains production files that can be uploaded to a PCB service for manufacturing, JLCPCB is my go-to. PCB assembly is recommended unless you have capability to do reflow, or hot air soldering.
 There is currently no option for a through-hole variant because the tranistor does not come in that package.
 
+# License:
+This project is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
 
+You may use, share, and modify the files in this repository for personal, non-commercial purposes, provided you give appropriate attribution and distribute any derivatives under the same license.
 
+Commercial use is not permitted without separate written permission.
 
-
-
-
+Editable source design files may not be provided; this repository may include manufacturing or export files only.
 
