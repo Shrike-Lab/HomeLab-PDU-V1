@@ -115,7 +115,7 @@ The original 10" enclosure, a sheet metal body + lid make up the housing, with a
 <br>
 
 ## 19 Inch - SBS:
-For people that couldn't possibly deal with a power input in the middle of the housing. One harness will require modification due to the layout.
+For people that couldn't possibly deal with a power input in the middle of the housing, this version has matching components side-by-side so inputs and outputs can be coordinated easier. One harness will require modification due to the layout.
 <p float="center">
   <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/19in-SBS/19in-SBS-B.png" width="80%" /> 
 </p>
