@@ -7,7 +7,7 @@
   
 </div>
 
-# **ShrikeLab PSU V1** - 5 & 10 port USB-C PSUs for 10" and 19" racks
+# **ShrikeLab PDU V1** - 5 & 10 port USB-C PDUs for 10" and 19" racks
 These PSUs are power delivery solutions for micro PC clusters and homelabs that suits both 10" and 19" racks. All variants are built around a Meanwell HRP-300-24 featuring either 5 or 10 USB-C power delivery ports enclosed in sheet metal or 3D printed ABS/ASA housings. 
 
 <div align="center">
@@ -18,7 +18,7 @@ These PSUs are power delivery solutions for micro PC clusters and homelabs that 
 
 ---
 
-<p float="left">
+<p float="center">
   <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/RM-Img/Stacked.png" width="100%" /> 
 </p>
 
@@ -29,13 +29,21 @@ This project helps fix this by consolidating power delivery for up to 10 65W mic
 
 **Follow-up and testing video** [here](youtube.com)
 
-
 ### Features:
 - Both 19" and 10" variants
 - Up to 10 x 65W USB-C outputs
 - 1U Height
 - Active cooling
 - Sheet metal housing or fully 3D printable
+
+<p float="center">
+  <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/General/PIC-Front.jpg" width="25%" /> 
+  <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/General/PIC-Rear.jpg" width="25%" /> 
+</p>
+
+### Development Plan:
+
+### FAQ:
 
 <br>
 <br>
@@ -127,8 +135,15 @@ For people that couldn't possibly deal with a power input in the middle of the h
 <br>
 <br>
 
-# Sub-Assemblies:
-## PCB Tray:
+# Assembly:
+
+**Notes:**
+- All variants are built around the Meanwell HRP-300-24
+- All 3D printed parts will fit on a 220mm x 220mmm print bed
+- 
+
+## Sub-Assemblies:
+### PCB Tray:
 All non-3D printed variants use the PCB tray sub-assembly. This tray makes soldering the daughter boards easier, and allows the board to be removed from the chassis easier.
 <p float="center">
   <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/General/PCB-Bracket.png" width="33%" /> 
@@ -136,19 +151,19 @@ All non-3D printed variants use the PCB tray sub-assembly. This tray makes solde
   <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/General/PCB-SubAssembly.png" width="33%" />
 </p>
 
-## PCB Assembly Bracket:
+### PCB Assembly Bracket:
 If additional assitance is required during assembly, this bracket (Yellow) can be printed to hold the boards in place. It's then removed when the assembly is installed into a chassis.
 <p float="center">
   <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/General/PCB-Assembly-Bracket.png" width="45%" /> 
 </p>
 
-## Daughter-Board Reinforcement:
-Once the daughter boards are attached to the main PCB, this reinforcement bracket (Gray) can be mounted to stop boards shifting over time.
+### Daughter-Board Reinforcement:
+Once the daughter boards are attached to the main PCB, this reinforcement bracket (Gray) can be mounted to stop boards shifting after repeat use.
 <p float="center">
   <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/General/PCB-Assembly-Reinforcement.png" width="45%" /> 
 </p>
 
-## IEC Plug:
+### IEC Plug:
 All 19" variants use the IEC plug subassembly to allow for a detachable cable.
 <p float="center">
   <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/General/IEC-Bracket.png" width="45%" /> 
