@@ -3,7 +3,7 @@
        src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/Logo/ShrikeLabCo_Footer_W_HiRes.png?raw=true"
        height="100">
   
-  [Website](https://www.shrikelab.co) | [YouTube](https://www.youtube.com/@ShrikeLab) | [Patreon](https://www.patreon.com/cw/ShrikeLab)
+  [Website](https://www.shrikelab.co) | [YouTube](https://www.youtube.com/@ShrikeLab)
   
 </div>
 <p align="center">
