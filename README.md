@@ -19,7 +19,7 @@ These PSUs are power delivery solutions for micro PC clusters and homelabs that 
 ---
 
 <p float="center">
-  <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/RM-Img/Stacked.png" width="100%" /> 
+  <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/General/Stacked.png" width="100%" /> 
 </p>
 
 Mini and micro labs are a great solution for homelabbing, but the power delivery options are often bulky and hard to manage due to the need for an individual power brick per computer.
