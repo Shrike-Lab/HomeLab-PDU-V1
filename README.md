@@ -45,6 +45,8 @@ This project helps fix this by consolidating power delivery for up to 10 65W mic
 - 1U Height
 - Active cooling
 - Sheet metal housing or fully 3D printable
+- All variants built around a Meanwell HRP-300-24
+- All 3D printed parts fit on a 220x220mm print bed
 
 <p float="center">
   <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/General/PIC-Front.jpg" width="25%" /> 
@@ -52,8 +54,8 @@ This project helps fix this by consolidating power delivery for up to 10 65W mic
 </p>
 
 ### Development Plan:
+See point in video
 
-### FAQ:
 
 <br>
 <br>
