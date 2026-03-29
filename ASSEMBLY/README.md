@@ -200,6 +200,7 @@ This variant contains no sub-assemblies still requires the [PCB reinforcement br
 | Front-2 | 19in_Single-Front_2.stl | 3D Print (ABS/ASA) | 1        |
 | Back-1  | 19in_Single-Back_1.stl  | 3D Print (ABS/ASA) | 1        |
 | Back-2  | 19in_Single-Back_2.stl  | 3D Print (ABS/ASA) | 1        |
+| Interal | 19in_Single-Internal.stl | 3D Print (ABS/ASA) | 1        |
 | Divider | 19in_Single-Divider.stl | 3D Print (ABS/ASA) | 1        |
 
 [Housing files are located here](https://github.com/Shrike-Lab/MiniLab-PSU/tree/main/ASSEMBLY/CAD/19in_Single)
