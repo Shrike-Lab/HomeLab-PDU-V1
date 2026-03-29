@@ -87,11 +87,11 @@ The original 10" enclosure, a sheet metal body + lid make up the housing, with a
 ## 10 Inch - 3D Printed - Unibody:
 10" printed unibody enclosure, made to be as easy as possible with minimal additional hardware, with the trade-off of being a little harder to print. No inserts required, all bolts thread directly into the print material. Small hatch for attaching button + fan and connecting wiring to PCB.
 <p float="center">
-  <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/Images/10in-Uni/10in-Uni-B.png" width="80%" /> 
+  <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/Images/10in_3D_Unibody/10in_3D_Unibody-A.png" width="80%" /> 
 </p>
 <p float="center">
-  <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/Images/10in-Uni/10in-Uni-A.png" width="40%" /> 
-  <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/Images/10in-Uni/10in-Uni-C.png" width="40%" /> 
+  <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/Images/10in_3D_Unibody/10in_3D_Unibody-B.png" width="40%" /> 
+  <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/Images/10in_3D_Unibody/10in_3D_Unibody-C.png" width="40%" /> 
 </p>
 
 <br>
@@ -99,11 +99,11 @@ The original 10" enclosure, a sheet metal body + lid make up the housing, with a
 ## 10 Inch - 3D Printed - Modular:
 10" printed enclosure, made to be more modular and mod-friendly but requires more M3 inserts and bolts to assebmle.
 <p float="center">
-  <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/Images/10in-Mod/10in-Mod-B.png" width="80%" /> 
+  <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/Images/10in_3D_Modular/10in_3D_Modular-A.png" width="80%" /> 
 </p>
 <p float="center">
-  <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/Images/10in-Mod/10in-Mod-A.png" width="40%" /> 
-  <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/Images/10in-Mod/10in-Mod-C.png" width="40%" /> 
+  <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/Images/10in_3D_Modular/10in_3D_Modular-B.png" width="40%" /> 
+  <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/Images/10in_3D_Modular/10in_3D_Modular-C.png" width="40%" /> 
 </p>
 
 <br>
