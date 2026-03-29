@@ -1,6 +1,6 @@
 <div align="center">
   <img alt="Shrike Lab logo"
-       src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/Logo/ShrikeLabCo_Footer_W_HiRes.png?raw=true"
+       src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/Images/Logo/ShrikeLabCo_Footer_W_HiRes.png?raw=true"
        height="100">
   
   [Website](https://www.shrikelab.co) | [YouTube](https://www.youtube.com/@ShrikeLab)
