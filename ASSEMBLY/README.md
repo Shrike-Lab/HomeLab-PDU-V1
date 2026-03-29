@@ -83,6 +83,13 @@ If additional assitance is required during assembly, this bracket (Yellow) can b
 [Housing files are located here](https://github.com/Shrike-Lab/MiniLab-PSU/tree/main/ASSEMBLY/CAD/10in_Single)
 
 #### **Hardware**
+| Item                | Length | Quantity | Drawing |
+| ------------------- | ------ | -------- | ------- |
+| M3 Low Profile Bolt | 5mm    | 24       |         |
+| M3 Low Profile Bolt | 8mm    | 2        |         |
+| M3 Plastic Washer   | -      | 4        |         |
+| M4 Low Profile Bolt | 5mm    | 4        |         |
+| M3 Insert           | -      | 20       |         |
 
 <br>
 
@@ -103,7 +110,11 @@ This variant contains no sub-assemblies still requires the [PCB reinforcement br
 [Housing files are located here](https://github.com/Shrike-Lab/MiniLab-PSU/tree/main/ASSEMBLY/CAD/10in_3D_Unibody)
 
 #### **Hardware**
-
+| Item                | Length | Quantity | Drawing |
+| ------------------- | ------ | -------- | ------- |
+| M3 Low Profile Bolt | 5mm    | 6        |         |
+| M3 Low Profile Bolt | 8mm    | 2        |         |
+| M3 Plastic Washer   | -      | 4        | -       |
 <br>
 
 ## 10 Inch - 3D Printed - Modular:
@@ -128,8 +139,15 @@ This variant contains no sub-assemblies still requires the [PCB reinforcement br
 | Bottom_2 | 10in_Mod-Bottom_2.stl | 3D Print (ABS/ASA) | 1        |    
 [Housing files are located here](https://github.com/Shrike-Lab/MiniLab-PSU/tree/main/ASSEMBLY/CAD/10in_3D_Modular)
 
-
 #### **Hardware**
+| Item                | Length | Quantity | Drawing |
+| ------------------- | ------ | -------- | ------- |
+| M3 Cap Head Bolt    | 8mm    | 28       |         |
+| M3 Cap Head Bolt    | 16mm   | 4        |         |
+| M3 Insert           | -      | 30       |         |
+| M4 Cap Head Bolt    | 5mm    | 7        |         |
+| M3 Low Profile Bolt | 5mm    | 2        |         |
+| Plastic Washer      | -      | 2        |         |
 
 <br>
 
@@ -153,6 +171,12 @@ This variant contains no sub-assemblies still requires the [PCB reinforcement br
 [Housing files are located here](https://github.com/Shrike-Lab/MiniLab-PSU/tree/main/ASSEMBLY/CAD/10in_Dual)
 
 #### **Hardware**
+| Item                | Length | Quantity | Drawing |
+| ------------------- | ------ | -------- | ------- |
+| M3 Low Profile Bolt | 5mm    | 32       |         |
+| M3 Low Profile Bolt | 8mm    | 4        |         |
+| M3 Plastic Washer   | -      | 8        |         |
+| M3 Insert           | -      | 30       |         |
 
 <br>
 
@@ -181,6 +205,13 @@ This variant contains no sub-assemblies still requires the [PCB reinforcement br
 [Housing files are located here](https://github.com/Shrike-Lab/MiniLab-PSU/tree/main/ASSEMBLY/CAD/19in_Single)
 
 #### **Hardware**
+| Item                | Length | Quantity | Drawing |
+| ------------------- | ------ | -------- | ------- |
+| M3 Low Profile Bolt | 5mm    | 36       |         |
+| M3 Plastic Washer   | -      | 4        |         |
+| M3 Insert           | -      | 40       |         |
+| M4 Low Profile Bolt | 5mm    | 4        |         |
+| M3 Cap Head         | 8mm    | 10       |         |
 
 <br>
 
@@ -208,6 +239,13 @@ This variant contains no sub-assemblies still requires the [PCB reinforcement br
 [Housing files are located here](https://github.com/Shrike-Lab/MiniLab-PSU/tree/main/ASSEMBLY/CAD/19in_Dual)
 
 #### **Hardware**
+| Item                | Length | Quantity | Drawing |
+| ------------------- | ------ | -------- | ------- |
+| M3 Low Profile Bolt | 5mm    | 42       |         |
+| M3 Plastic Washer   | -      | 8        |         |
+| M3 Insert           | -      | 48       |         |
+| M4 Low Profile Bolt | 5mm    | 10       |         |
+| M3 Cap Head         | 8mm    | 16       |         |
 
 <br>
 
@@ -235,3 +273,10 @@ This variant contains no sub-assemblies still requires the [PCB reinforcement br
 [Housing files are located here](https://github.com/Shrike-Lab/MiniLab-PSU/tree/main/ASSEMBLY/CAD/19in_Dual_SBS)
 
 #### **Hardware**
+| Item                | Length | Quantity | Drawing |
+| ------------------- | ------ | -------- | ------- |
+| M3 Low Profile Bolt | 5mm    | 42       |         |
+| M3 Plastic Washer   | -      | 8        |         |
+| M3 Insert           | -      | 48       |         |
+| M4 Low Profile Bolt | 5mm    | 10       |         |
+| M3 Cap Head         | 8mm    | 16       |         |
