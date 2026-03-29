@@ -7,13 +7,13 @@ This section contains the bill of materials for each variant, as well as renders
 
 | Component          | Quantity | Link/Location | Source |
 | ------------------ | -------- | ------------- | ------ |
-| PDU PCB Ver 1.0    | 1        |               | Shrikelab kit or via PCB manufacturing service|
-| USB-C 65W PD Board | 5        |               | Shrikelab kit or via online ( |
-| Heatsink           | 5        |               |        |
-| Buck Converter     | 1        |               |        |
-| 16mm Button        | 1        |               |        |
-| Button harness     | 1        |               | Comes with button |
-| Power harness      | 1        |                |        |
+| PDU PCB Ver 1.0    | 1        |               | Shrikelab kit or buy PCB manufacturing service|
+| USB-C 65W PD Board | 5        |               | Shrikelab kit or buy online ( |
+| Heatsink           | 5        |               | Shrikelab kit or buy online |
+| Buck Converter     | 1        |               | Shrikelab kit or buy online |
+| 16mm Button        | 1        |               | Shrikelab kit or buy online |
+| Button harness     | 1        |               | Shrikelab kit or comes withh button |
+| Power harness      | 1        |               | Shrikelab kit or DIY|
 
 
 <br>
@@ -77,11 +77,12 @@ If additional assitance is required during assembly, this bracket (Yellow) can b
 | PCB Tray | 1        |
 
 #### **Housing:**
-| Item       | File Name          | Material           | Quantity |
-| ---------- | ------------------ | ------------------ | -------- |
-| Body       | 10in_Uni-Body.stl  | 3D Print (ABS/ASA) | 1        |
-| Tray       | 10in_Uni-Tray.stl  | 3D Print (ABS/ASA) | 1        |
-| Side Panel | 10in_Uni-SidePanel | 3D Print (ABS/ASA) | 1        |
+| Item  | File Name             | Material           | Quantity |
+| ----- | --------------------- | ------------------ | -------- |
+| Tray  | 10in_Single-Tray.stp  | Sheel Metal        | 1        |
+| Lid   | 10in_Single-Lid.stp   | Sheel Metal        | 1        |
+| Front | 10in_Single-Front.stl | 3D Print (ABS/ASA) | 1        |
+| Back  | 10in_Single-Back.stl  | 3D Print (ABS/ASA) | 1        |
 [Housing files are located here](https://github.com/Shrike-Lab/MiniLab-PSU/tree/main/ASSEMBLY/CAD/10in_Single)
 
 #### **Hardware**
@@ -97,11 +98,11 @@ If additional assitance is required during assembly, this bracket (Yellow) can b
 This variant contains no sub-assemblies still requires the [PCB Re-inforcement Bracket](https://github.com/Shrike-Lab/MiniLab-PSU/tree/main/ASSEMBLY/CAD/Universal/Reinforcement-Bracket.stl)
 
 #### **Housing:**
-| Item       | File Name          | Material           | Quantity | Link/Location |
-| ---------- | ------------------ | ------------------ | -------- | ------------- |
-| Body       | 10in_Uni-Body.stl  | 3D Print (ABS/ASA) | 1        |               |
-| Tray       | 10in_Uni-Tray.stl  | 3D Print (ABS/ASA) | 1        |               |
-| Side Panel | 10in_Uni-SidePanel | 3D Print (ABS/ASA) | 1        |               |
+| Item       | File Name          | Material           | Quantity |
+| ---------- | ------------------ | ------------------ | -------- |
+| Body       | 10in_Uni-Body.stl  | 3D Print (ABS/ASA) | 1        |
+| Tray       | 10in_Uni-Tray.stl  | 3D Print (ABS/ASA) | 1        |
+| Side Panel | 10in_Uni-SidePanel | 3D Print (ABS/ASA) | 1        |
 [Housing files are located here](https://github.com/Shrike-Lab/MiniLab-PSU/tree/main/ASSEMBLY/CAD/10in_3D_Unibody)
 
 #### **Hardware**
