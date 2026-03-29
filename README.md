@@ -48,14 +48,20 @@ This project helps fix this by consolidating power delivery for up to 10 65W mic
 - All variants built around a Meanwell HRP-300-24
 - All 3D printed parts fit on a 220x220mm print bed
 
-<p float="center">
-  <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/General/PIC-Front.jpg" width="25%" /> 
-  <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/IMG/General/PIC-Rear.jpg" width="25%" /> 
-</p>
 
-### Development Plan:
-See point in video
-
+### Content:
+- **Assembly** - Assembly and sub-assembly guide
+- **CAD** - CAD files for all varients, universal files and drawings of components
+  - **Drawings**
+  - 10in_Single
+  - 10in_Dual
+  - 10in_3D_Modular
+  - 10in_3D_Unibody
+  - 19in_Single
+  - 19in_Dual
+  - 19in_Dual_SBS
+- **IMG** - Images
+- **PCB** - PCB gerber manufacturing files
 
 <br>
 
