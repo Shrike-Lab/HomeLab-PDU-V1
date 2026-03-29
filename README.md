@@ -82,7 +82,7 @@ The original 10" enclosure, a sheet metal body + lid make up the housing, with a
   <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/Images/10in-Single/10in-Single-C.png" width="40%" /> 
 </p>
 
-[BOM](https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/ASSEMBLY/README.md#10-inch---single)
+[Bill of materials](https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/ASSEMBLY/README.md#10-inch---single)
 
 <br>
 
@@ -96,7 +96,7 @@ The original 10" enclosure, a sheet metal body + lid make up the housing, with a
   <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/Images/10in_3D_Unibody/10in_3D_Unibody-C.png" width="40%" /> 
 </p>
 
-[BOM](https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/ASSEMBLY/README.md#10-inch---3d-printed---unibody)
+[Bill of materials](https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/ASSEMBLY/README.md#10-inch---3d-printed---unibody)
 
 <br>
 
@@ -110,6 +110,8 @@ The original 10" enclosure, a sheet metal body + lid make up the housing, with a
   <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/Images/10in_3D_Modular/10in_3D_Modular-C.png" width="40%" /> 
 </p>
 
+[Bill of materials](https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/ASSEMBLY/README.md#10-inch---3d-printed---modular)
+
 <br>
 
 ## 10 Inch - Dual:
@@ -122,7 +124,7 @@ The original 10" enclosure, a sheet metal body + lid make up the housing, with a
   <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/Images/10in-Dual/10in-Dual-C.png" width="40%" /> 
 </p>
 
-[BOM](https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/ASSEMBLY/README.md#10-inch---dual)
+[Bill of materials](https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/ASSEMBLY/README.md#10-inch---dual)
 
 <br>
 
@@ -136,7 +138,7 @@ The original 10" enclosure, a sheet metal body + lid make up the housing, with a
   <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/Images/19in-Single/19in-Single-C.png" width="40%" /> 
 </p>
 
-[BOM](https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/ASSEMBLY/README.md#19-inch---single)
+[Bill of materials](https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/ASSEMBLY/README.md#19-inch---single)
 
 <br>
 
@@ -150,7 +152,7 @@ The original 10" enclosure, a sheet metal body + lid make up the housing, with a
   <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/Images/19in-Dual/19in-Dual-C.png" width="40%" /> 
 </p>
 
-[BOM](https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/ASSEMBLY/README.md#19-inch---dual)
+[Bill of materials](https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/ASSEMBLY/README.md#19-inch---dual)
 
 <br>
 
@@ -164,7 +166,7 @@ For people that couldn't possibly deal with a power input in the middle of the h
   <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/Images/19in-SBS/19in-SBS-C.png" width="40%" /> 
 </p>
 
-[BOM](https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/ASSEMBLY/README.md#19-inch---dual---sbs)
+[Bill of materials](https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/ASSEMBLY/README.md#19-inch---dual---sbs)
 
 <br>
 
