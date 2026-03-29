@@ -164,7 +164,7 @@ For people that couldn't possibly deal with a power input in the middle of the h
   <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/Images/19in-SBS/19in-SBS-C.png" width="40%" /> 
 </p>
 
-[BOM](https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/ASSEMBLY/README.md#10-inch---dual---sbs)
+[BOM](https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/ASSEMBLY/README.md#19-inch---dual---sbs)
 
 <br>
 
