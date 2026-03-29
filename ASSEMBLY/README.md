@@ -1,6 +1,8 @@
 # Assembly:
 This section contains the bill of materials for each variant, as well as renders and exploded views of the sub-assemblies.
 
+- All CAD files have been exported as an STL for printing, along with an STP for editing.
+
 **All variants contain the following components:**
 
 | Component          | Quantity | Link/Location | Source |
@@ -48,8 +50,9 @@ Due to the extra depth allowed on full racks, all 19" variants use the IEC plug 
 
 | Component          | Quantity | Link/Location |
 | ------------------ | -------- | ------------- |
-| IEC Plug           | 1        | [Digikey part link](https://www.digikey.com/en/products/detail/adam-tech/IEC-GS-1-100/9831135) |
+| IEC Socket         | 1        | [Digikey part link](https://www.digikey.com/en/products/detail/adam-tech/IEC-GS-1-100/9831135) |
 | IEC Bracket        | 1        | [STL](https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/ASSEMBLY/CAD/Universal/IEC_Bracket.stl) |
+| IEC Spade Terminals | 5        | [Digikey part link](https://www.digikey.com/en/products/detail/molex/0190030011/279039) |
 
 <br>
 
@@ -73,50 +76,46 @@ If additional assitance is required during assembly, this bracket (Yellow) can b
 | -------- | -------- |
 | PCB Tray | 1        |
 
-#### Housing
+#### **Housing:**
 | Item       | File Name          | Material           | Quantity |
 | ---------- | ------------------ | ------------------ | -------- |
 | Body       | 10in_Uni-Body.stl  | 3D Print (ABS/ASA) | 1        |
 | Tray       | 10in_Uni-Tray.stl  | 3D Print (ABS/ASA) | 1        |
 | Side Panel | 10in_Uni-SidePanel | 3D Print (ABS/ASA) | 1        |
 
-#### Housing
-| Item       | File Name          | Material           | Quantity |
-| ---------- | ------------------ | ------------------ | -------- |
-| Body       | 10in_Uni-Body.stl  | 3D Print (ABS/ASA) | 1        |
-| Tray       | 10in_Uni-Tray.stl  | 3D Print (ABS/ASA) | 1        |
-| Side Panel | 10in_Uni-SidePanel | 3D Print (ABS/ASA) | 1        |
+#### **Hardware**
 
 <br>
 
 ## 10 Inch - 3D Printed - Unibody:
 <p float="center">
-  <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/Images/10in-Uni/10in-Uni-B.png" width="50%" /> 
+  <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/Images/10in_3D_Unibody/10in_3D_Unibody-A.png" width="50%" /> 
 </p>
 
 #### **Sub-Assemblies:**
 This variant contains no sub-assemblies still requires the [PCB Re-inforcement Bracket](https://github.com/Shrike-Lab/MiniLab-PSU/tree/main/ASSEMBLY/CAD/Universal/Reinforcement-Bracket.stl)
 
-#### Housing
+#### **Housing:**
 | Item       | File Name          | Material           | Quantity | Link/Location |
 | ---------- | ------------------ | ------------------ | -------- | ------------- |
 | Body       | 10in_Uni-Body.stl  | 3D Print (ABS/ASA) | 1        |               |
 | Tray       | 10in_Uni-Tray.stl  | 3D Print (ABS/ASA) | 1        |               |
 | Side Panel | 10in_Uni-SidePanel | 3D Print (ABS/ASA) | 1        |               |
+[Housing files are located here](https://github.com/Shrike-Lab/MiniLab-PSU/tree/main/ASSEMBLY/CAD/10in_Single)
 
-#### Hardware
+#### **Hardware**
 
 <br>
 
 ## 10 Inch - 3D Printed - Modular:
 <p float="center">
-  <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/Images/10in-Mod/10in-Mod-B.png" width="50%" /> 
+  <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/Images/10in_3D_Modular/10in_3D_Modular-B.png" width="50%" /> 
 </p>
 
 #### **Sub-Assemblies:**
 This variant contains no sub-assemblies still requires the [PCB Re-inforcement Bracket](https://github.com/Shrike-Lab/MiniLab-PSU/tree/main/ASSEMBLY/CAD/Universal/Reinforcement-Bracket.stl)
 
-#### Housing
+#### **Housing:**
 | Item     | File Name             | Material           | Quantity |
 | -------- | --------------------- | ------------------ | -------- |
 | Front    | 10in_Mod-Front.stl    | 3D Print (ABS/ASA) | 1        | 
@@ -128,8 +127,10 @@ This variant contains no sub-assemblies still requires the [PCB Re-inforcement B
 | Top_2    | 10in_Mod-Top_2.stl    | 3D Print (ABS/ASA) | 1        |       
 | Bottom_1 | 10in_Mod-Bottom_1.stl | 3D Print (ABS/ASA) | 1        |         
 | Bottom_2 | 10in_Mod-Bottom_2.stl | 3D Print (ABS/ASA) | 1        |    
+[Housing files are located here](https://github.com/Shrike-Lab/MiniLab-PSU/tree/main/ASSEMBLY/CAD/10in_3D_Modular)
 
-#### Hardware
+
+#### **Hardware**
 
 <br>
 
@@ -143,9 +144,10 @@ This variant contains no sub-assemblies still requires the [PCB Re-inforcement B
 | -------- | -------- |
 | PCB Tray | 2        |
 
-#### Housing
+#### **Housing:**
+[Housing files are located here](https://github.com/Shrike-Lab/MiniLab-PSU/tree/main/ASSEMBLY/CAD/10in_Dual)
 
-#### Hardware
+#### **Hardware**
 
 <br>
 
@@ -160,7 +162,7 @@ This variant contains no sub-assemblies still requires the [PCB Re-inforcement B
 | PCB Tray | 1        |
 | IEC Plug | 1        |
 
-#### *Housing*
+#### **Housing:**
 | Item    | File Name               | Material           | Quantity |
 | ------- | ----------------------- | ------------------ | -------- |
 | Tray    | 19in_Single-Tray.stp    | Sheel Metal        | 1        |
@@ -171,9 +173,9 @@ This variant contains no sub-assemblies still requires the [PCB Re-inforcement B
 | Back-2  | 19in_Single-Back_2.stl  | 3D Print (ABS/ASA) | 1        |
 | Divider | 19in_Single-Divider.stl | 3D Print (ABS/ASA) | 1        |
 
-[Link to the file location](https://github.com/Shrike-Lab/MiniLab-PSU/tree/main/ASSEMBLY/CAD/19in_Single)
+[Housing files are located here](https://github.com/Shrike-Lab/MiniLab-PSU/tree/main/ASSEMBLY/CAD/19in_Single)
 
-#### Hardware
+#### **Hardware**
 
 <br>
 
@@ -188,9 +190,10 @@ This variant contains no sub-assemblies still requires the [PCB Re-inforcement B
 | PCB Tray | 2        |
 | IEC Plug | 2        |
 
-#### Housing
+#### **Housing:**
+[Housing files are located here](https://github.com/Shrike-Lab/MiniLab-PSU/tree/main/ASSEMBLY/CAD/19in_Dual)
 
-#### Hardware
+#### **Hardware**
 
 <br>
 
@@ -205,6 +208,7 @@ This variant contains no sub-assemblies still requires the [PCB Re-inforcement B
 | PCB Tray | 2        |
 | IEC Plug | 2        |
 
-#### Housing
+#### **Housing:**
+[Housing files are located here](https://github.com/Shrike-Lab/MiniLab-PSU/tree/main/ASSEMBLY/CAD/19in_Dual_SBS)
 
-#### Hardware
+#### **Hardware**
