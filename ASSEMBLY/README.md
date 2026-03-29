@@ -131,6 +131,17 @@ If additional assitance is required during assembly, this bracket (Yellow) can b
 </p>
 
 #### Housing
+[Link to the file location](https://github.com/Shrike-Lab/MiniLab-PSU/tree/main/ASSEMBLY/CAD/19in_Single)
+| Item    | File Name               | Material           | Quantity |
+| ------- | ----------------------- | ------------------ | -------- |
+| Tray    | 19in_Single-Tray.stp    | Sheel Metal        | 1        |
+| Lid     | 19in_Single-Lid.stp     | Sheel Metal        | 1        |
+| Front-1 | 19in_Single-Front_1.stl | 3D Print (ABS/ASA) | 1        |
+| Front-2 | 19in_Single-Front_2.stl | 3D Print (ABS/ASA) | 1        |
+| Back-1  | 19in_Single-Back_1.stl  | 3D Print (ABS/ASA) | 1        |
+| Back-2  | 19in_Single-Back_2.stl  | 3D Print (ABS/ASA) | 1        |
+| Divider | 19in_Single-Divider.stl | 3D Print (ABS/ASA) | 1        |
+
 
 #### Hardware
 
