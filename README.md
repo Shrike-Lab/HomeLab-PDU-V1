@@ -39,6 +39,8 @@ This project helps fix this by consolidating power delivery for up to 10 65W mic
 
 **Follow-up and testing video** [here](youtube.com)
 
+<br>
+
 ### Features:
 - Both 19" and 10" variants
 - Up to 10 x 65W USB-C outputs
@@ -48,11 +50,13 @@ This project helps fix this by consolidating power delivery for up to 10 65W mic
 - All variants built around a Meanwell HRP-300-24
 - All 3D printed parts fit on a 220x220mm print bed
 
+<br>
 
-### Content:
-- **Assembly** - Assembly and sub-assembly guide
+### Repo Content:
+- **Assembly** - Guides and references for main and sub-assemblies
 - **CAD** - CAD files for all varients, universal files and drawings of components
-  - **Drawings**
+  - **Drawings** - Drawings of components and wiring
+  - **Universal** - Files thats are used for multiple variants
   - 10in_Single
   - 10in_Dual
   - 10in_3D_Modular
@@ -66,6 +70,7 @@ This project helps fix this by consolidating power delivery for up to 10 65W mic
 <br>
 
 # Variants:
+All variants are built around a Meanwell HRP-300-24 and the same PCB. The housings are designed to fit in 1U of space on both a 10in and 19in server rack. 
 
 ## 10 Inch - Single:
 The original 10" enclosure, a sheet metal body + lid make up the housing, with a 3D printed front and rear. 5 outputs.
