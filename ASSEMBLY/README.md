@@ -7,13 +7,10 @@ This section contains the bill of materials for each variant, as well as renders
 
 | Component          | Quantity | Link/Location | Source |
 | ------------------ | -------- | ------------- | ------ |
-| PDU PCB Ver 1.0    | 1        |               | Shrikelab kit or buy PCB manufacturing service|
-| USB-C 65W PD Board | 5        |               | Shrikelab kit or buy online ( |
-| Heatsink           | 5        |               | Shrikelab kit or buy online |
-| Buck Converter     | 1        |               | Shrikelab kit or buy online |
-| 16mm Button        | 1        |               | Shrikelab kit or buy online |
-| Button harness     | 1        |               | Shrikelab kit or comes withh button |
-| Power harness      | 1        |               | Shrikelab kit or DIY|
+| PDU PCB Ver 1.0    | Depends on configuration |               | Shrikelab kit or buy PCB manufacturing service|
+| 16mm Button        | Depends on configuration |               | Shrikelab kit or buy online |
+| Button harness     | Depends on configuration |               | Shrikelab kit or comes with button |
+| Power harness      | Depends on configuration |               | Shrikelab kit or DIY|
 
 
 <br>
