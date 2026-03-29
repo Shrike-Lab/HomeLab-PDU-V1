@@ -81,7 +81,6 @@ The original 10" enclosure, a sheet metal body + lid make up the housing, with a
   <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/Images/10in-Single/10in-Single-A.png" width="40%" /> 
   <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/Images/10in-Single/10in-Single-C.png" width="40%" /> 
 </p>
-[BOM](https://github.com/Shrike-Lab/MiniLab-PSU/tree/main/ASSEMBLY/README.md#10inch-single)
 
 <br>
 
