@@ -56,7 +56,7 @@ Due to the extra depth allowed on full racks, all 19" variants use the IEC plug 
 <br>
 
 ### PCB Assembly Bracket:
-If additional assitance is required during assembly, this bracket (Yellow) can be printed to hold the boards in place. It's then removed when the assembly is installed into a chassis.
+If additional assitance is required during assembly, this bracket (Yellow) can be printed to hold the boards in place. It's then removed and replaced with the reinforcment bracket when the assembly is installed into a chassis.
 <p float="center">
   <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/Images/General/PCB-Assembly-Bracket.png" width="45%" /> 
 </p>
