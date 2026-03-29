@@ -214,7 +214,7 @@ This variant contains no sub-assemblies still requires the [PCB Re-inforcement B
 
 <br>
 
-## 19 Inch - SBS:
+## 19 Inch - Dual - SBS:
 <p float="center">
   <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/Images/19in-SBS/19in-SBS-B.png" width="50%" /> 
 </p>
