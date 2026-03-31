@@ -35,9 +35,9 @@ These PSUs are power delivery solutions for micro PC clusters and homelabs that 
 Mini and micro labs are a great solution for homelabbing, but the power delivery options are often bulky and hard to manage due to the need for an individual power brick per computer.
 This project helps fix this by consolidating power delivery for up to 10 65W micro PCs into a single unit that fits in either a 10" or 19" 1U rack. This differs from a conventional multi-port USB PD hub by not needing to re-negotiate any power delivery voltages when a unit is turned off or unplugged, or when the power load across ports changes drastically. Also the packaging is designed specifially for rack mounting, with active cooling and simple power switching.
 
-[**Showcase & design video here**](https://www.youtube.com/watch?v=8tTG0TBM7ts)
+[**Design and build video here**](https://www.youtube.com/watch?v=8tTG0TBM7ts)
 
-[**Follow-up and testing video**] (youtube.com)
+[**Follow-up and testing video here**](youtube.com)
 
 <br>
 
