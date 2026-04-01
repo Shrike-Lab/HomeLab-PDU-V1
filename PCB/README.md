@@ -24,6 +24,13 @@ To power the 40mm chassis fans the main 24V rail needs to be stepped down to 12V
   <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/Images/General/MP1584EN.png" width="40%" /> 
 </p>
 
+### Wiring:
+There are two harnesses per set of internal electronics, one for main power and one for the button. The drawings can be found [here](https://github.com/Shrike-Lab/MiniLab-PSU/tree/main/ASSEMBLY/DRAWINGS/Electrial).
+
+| Part   | Connection | Link |
+| Ring spade | 24V harness |
+
+
 <br>
 
 ## PCB Component BOM:
