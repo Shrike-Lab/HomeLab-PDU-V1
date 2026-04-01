@@ -54,16 +54,20 @@ This project helps fix this by consolidating power delivery for up to 10 65W mic
 
 ### Repo Content:
 - **Assembly** - Renders and references for main and sub-assemblies, plus bill of material for each variant
-- **CAD** - CAD files for all varients, universal files and drawings of components
+  - **CAD** - CAD files for all varients, universal files and drawings of components
+    - **Universal** - Files thats are used for multiple variants
+    - 10in_Single
+    - 10in_Dual
+    - 10in_3D_Modular
+    - 10in_3D_Unibody
+    - 19in_Single
+    - 19in_Dual
+    - 19in_Dual_SBS
+    - **Blanks** - STP files for customisation
+    - **Universal** - STL and STP files that are used for multiple variants
   - **Drawings** - Drawings of components and wiring
-  - **Universal** - Files thats are used for multiple variants
-  - 10in_Single
-  - 10in_Dual
-  - 10in_3D_Modular
-  - 10in_3D_Unibody
-  - 19in_Single
-  - 19in_Dual
-  - 19in_Dual_SBS
+    - **Electrical** - Harness pinouts and drawings of electronic components
+    -  **Hardware** - Drawings of hardware along with sheet metal engineering drawings
 - **IMG** - Images
 - **PCB** - PCB gerber manufacturing files
 
