@@ -52,6 +52,7 @@ Due to the extra depth allowed on full racks, all 19" variants use the IEC plug 
 | IEC Socket         | 1        | [Digikey part link](https://www.digikey.com/en/products/detail/adam-tech/IEC-GS-1-100/9831135) |
 | IEC Bracket        | 1        | [STL](https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/ASSEMBLY/CAD/Universal/IEC_Bracket.stl) |
 | IEC Spade Terminals | 5        | [Digikey part link](https://www.digikey.com/en/products/detail/molex/0190030011/279039) |
+| IEC Fuse           | 1         | [Digikey part link](https://www.digikey.com/en/products/detail/littelfuse-inc/0232008-MXP/778029) |
 
 <br>
 
