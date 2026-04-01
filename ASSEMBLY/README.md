@@ -150,6 +150,7 @@ This variant contains no sub-assemblies still requires the [PCB reinforcement br
 | M3 Cap Head Bolt    | 16mm   | 4        |         |
 | M3 Insert           | -      | 30       |         |
 | M4 Cap Head Bolt    | 5mm    | 7        |         |
+| M4 Low Profile Bolt | 3mm    | 1        |         |
 | M3 Low Profile Bolt | 5mm    | 2        |         |
 | Plastic Washer      | -      | 2        |         |
 
@@ -270,7 +271,7 @@ This variant contains no sub-assemblies still requires the [PCB reinforcement br
 | ------- | ------------------------- | ------------------ | -------- |
 | Tray    | 19in_Dual_SBS-Tray.stp    | Sheel Metal        | 1        |
 | Lid     | 19in_Dual_SBS-Lid.stp     | Sheel Metal        | 1        |
-| Front-1 | 19in_Dua_SBSl-Front_1.stl | 3D Print (ABS/ASA) | 1        |
+| Front-1 | 19in_Dual_SBS-Front_1.stl  | 3D Print (ABS/ASA) | 1        |
 | Front-2 | 19in_Dual_SBS-Front_2.stl | 3D Print (ABS/ASA) | 1        |
 | Back-1  | 19in_Dual_SBS-Back_1.stl  | 3D Print (ABS/ASA) | 1        |
 | Back-2  | 19in_Dual_SBS-Back_2.stl  | 3D Print (ABS/ASA) | 1        |
