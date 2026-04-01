@@ -149,6 +149,7 @@ This variant contains no sub-assemblies still requires the [PCB reinforcement br
 | M3 Cap Head Bolt    | 16mm   | 4        |         |
 | M3 Insert           | -      | 30       |         |
 | M4 Cap Head Bolt    | 5mm    | 7        |         |
+| M4 Low Profile Bolt | 3mm    | 1        |         |
 | M3 Low Profile Bolt | 5mm    | 2        |         |
 | Plastic Washer      | -      | 2        |         |
 
