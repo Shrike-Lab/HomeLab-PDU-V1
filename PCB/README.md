@@ -27,8 +27,12 @@ To power the 40mm chassis fans the main 24V rail needs to be stepped down to 12V
 ### Wiring:
 There are two harnesses per set of internal electronics, one for main power and one for the button. The drawings can be found [here](https://github.com/Shrike-Lab/MiniLab-PSU/tree/main/ASSEMBLY/DRAWINGS/Electrial).
 
-| Part   | Connection | Link |
-| Ring spade | 24V harness |
+| Part          | Harness            | Link                                                                                                     |
+| ------------- | ------------------ | -------------------------------------------------------------------------------------------------------- |
+| Ring spade    | 24V Power          | https://www.digikey.com/en/products/detail/molex/0193240008/3884473                                      |
+| PCB Connector | 24V Power & Button | https://www.digikey.com/en/products/detail/molex/0039012060/61379?s=N4IgTCBcDaIOoFkDMB2ADGAtAOQCIgF0BfIA |
+| Crimp         | 24V Power & Button | https://www.digikey.com/en/products/detail/molex/0039000039/61448?s=N4IgTCBcDaIOoFkwFYAMBGAtAOQCIgF0BfIA |
+| IEC Terminals | Mains Power        | https://www.digikey.com/en/products/detail/molex/0190030011/279039                                       |
 
 
 <br>
