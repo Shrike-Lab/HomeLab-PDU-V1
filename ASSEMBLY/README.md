@@ -25,6 +25,7 @@ This section contains the bill of materials for each variant, as well as renders
 | M4 Low Profile Bolt | [Drawing](https://github.com/Shrike-Lab/HomeLab-PDU-V1/blob/main/ASSEMBLY/DRAWINGS/Hardware/Bolt-LowProfile.png) | - |
 | M4 Cap Head Bolt    | [Drawing](https://github.com/Shrike-Lab/HomeLab-PDU-V1/blob/main/ASSEMBLY/DRAWINGS/Hardware/Bolt-CapHead.png) | - | 
 | M3 Insert           | [Drawing](https://github.com/Shrike-Lab/HomeLab-PDU-V1/blob/main/ASSEMBLY/DRAWINGS/Hardware/M3-Insert.pdf) | - |
+
 **Electrical:**
 | Component          |Link/Location | Source |
 | ------------------ |------------- | ------ |
