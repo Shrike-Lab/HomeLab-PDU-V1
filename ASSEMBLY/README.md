@@ -119,7 +119,7 @@ If additional assitance is required during assembly, this bracket (Yellow) can b
 </p>
 
 #### **Sub-Assemblies:**
-This variant contains no sub-assemblies still requires the [PCB reinforcement bracket](https://github.com/Shrike-Lab/MiniLab-PSU/tree/main/ASSEMBLY/CAD/Universal/Reinforcement-Bracket.stl)
+This variant contains no sub-assemblies still requires the [PCB reinforcement bracket](https://github.com/Shrike-Lab/MiniLab-PSU/tree/main/ASSEMBLY/CAD/Universal/Reinforcement_Bracket.stl)
 
 #### **Housing:**
 | Item       | File Name          | Material           | Quantity |
@@ -143,7 +143,7 @@ This variant contains no sub-assemblies still requires the [PCB reinforcement br
 </p>
 
 #### **Sub-Assemblies:**
-This variant contains no sub-assemblies still requires the [PCB reinforcement bracket](https://github.com/Shrike-Lab/MiniLab-PSU/tree/main/ASSEMBLY/CAD/Universal/Reinforcement-Bracket.stl)
+This variant contains no sub-assemblies still requires the [PCB reinforcement bracket](https://github.com/Shrike-Lab/MiniLab-PSU/tree/main/ASSEMBLY/CAD/Universal/Reinforcement_Bracket.stl)
 
 #### **Housing:**
 | Item     | File Name             | Material           | Quantity |
