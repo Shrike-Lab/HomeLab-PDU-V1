@@ -16,6 +16,22 @@ There is currently no option for a through-hole variant because the tranistor do
 
 <br>
 
+### Power Delivery Modules:
+THe board assembly contains 5 USB-C power delivery modules that are based on an XPM52C with the following power profiles.
+
+12V/3A, 15V/3A, 20V/3.25A
+
+**Low Power PDO:** 5V/3A, 9V/3A, 12V/2.5A, 20V/1.5A
+
+**High Power PDO:** 5V/3A, 9V/3A, 12V/3A
+
+<p float="center">
+  <img src="https://github.com/Shrike-Lab/HomeLab-PDU-V1/blob/main/ASSEMBLY/DRAWINGS/Electrial/PD_Board.png" width="30%" /> 
+</p>
+
+
+
+
 ### Buck Converter:
 To power the 40mm chassis fans the main 24V rail needs to be stepped down to 12V. This can be done with either an LM2596S or MP1584EN, on the PCB there's header holes and labels for both. The LM2596S is much more popular, but the MP1584EN is newer and has less EMC. MP1584EN comes in multiple variants, **make sure to get the variable one so you're able to tune the fan voltage**.
 
