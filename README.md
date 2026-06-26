@@ -182,16 +182,12 @@ For people that couldn't possibly deal with a power input in the middle of the h
 <br>
 
 # Disclaimer:
+
 If you build, modify, or use this project, you do so entirely at your own risk. The author provides these files without any warranty or guarantee of safety, reliability, or fitness for any particular purpose, and accepts no liability for any damage, injury, loss, or other consequences resulting from their use.
 
 # License:
-This project is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+This project is licensed under the CERN Open Hardware Licence Version 2 - Strongly Reciprocal (CERN-OHL-S v2).
+You may use, study, modify, and distribute this design and its documentation, provided that any derivatives are licensed under the same terms. Source design files must be made available to anyone who receives the hardware or design files.
 
-You may use, share, and modify the files in this repository for personal, non-commercial purposes, provided you give appropriate attribution and distribute any derivatives under the same license.
-
-Commercial use is not permitted without separate written permission.
-
-Editable source design files may not be provided; this repository may include manufacturing or export files only.
-
-Learn more [here.](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)
+Learn more at [ohwr.org](ohwr.org).
 
