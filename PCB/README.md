@@ -51,6 +51,8 @@ Mains voltage is present inside the PSU enclosure and can cause serious injury o
 
 If you chose to replace the PSU fan, it can be plugged into the second header on the main PCB.
 
+The fan headers on the PCB are 3 pin 2.54mm, standard DC fan headers.
+
 
 ### Wiring:
 There are two harnesses per set of internal electronics, one for main power and one for the button. The drawings can be found [here](https://github.com/Shrike-Lab/MiniLab-PSU/tree/main/ASSEMBLY/DRAWINGS/Electrial).
