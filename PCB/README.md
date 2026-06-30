@@ -42,6 +42,18 @@ To power the 40mm chassis fans the main 24V rail needs to be stepped down to 12V
   <img src="https://github.com/Shrike-Lab/MiniLab-PSU/blob/main/Images/General/MP1584EN.png" width="40%" /> 
 </p>
 
+
+### Cooling Fan:
+The cooling fan used for the PCB is a Noctua NF-A4x20 powered via 12V stepped down from the switched 24V output. This fan is 40mmx40mm and 20mm thick. The fan output on the main PCB is DC only, so the 3-Pin FLX variant are recommended, however the 4-pin PWM version will also work. When assembling the main PCB, make sure to adjust the buck converter output voltage down below 12V before plugging in any fans. The RPM of the fans is adjusted by tuning the voltage output of the buck converter.
+
+Replacing the internal fan of the Meanwell PSU requires opening the power supply unit. This should only be attempted by qualified personnel.
+Mains voltage is present inside the PSU enclosure and can cause serious injury or death. Even with the unit powered off and unplugged, capacitors inside the PSU may retain a lethal charge for an extended period. Do not touch any internal components unless you are certain the unit has been fully discharged.
+
+If you chose to replace the PSU fan, it can be plugged into the second header on the main PCB.
+
+The fan headers on the PCB are 3 pin 2.54mm, standard DC fan headers.
+
+
 ### Wiring:
 There are two harnesses per set of internal electronics, one for main power and one for the button. The drawings can be found [here](https://github.com/Shrike-Lab/MiniLab-PSU/tree/main/ASSEMBLY/DRAWINGS/Electrial).
 

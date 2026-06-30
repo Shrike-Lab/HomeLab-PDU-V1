@@ -308,3 +308,100 @@ This variant contains no sub-assemblies still requires the [PCB reinforcement br
 | M3 Insert           | -      | 48       |   
 | M4 Low Profile Bolt | 5mm    | 12       |
 | M3 Cap Head         | 8mm    | 16       |
+
+<br>
+
+## Main PCB Assembly:
+
+The small blue piece is a guide for cutting, bending and crimping the jumper wires from the PD modules to the main board.
+<p float="center">
+  <img src="https://github.com/Shrike-Lab/HomeLab-PDU-V1/blob/main/Images/Assembly/AS_01.JPG" width="80%" /> 
+</p>
+<br>
+
+Along the longest edge, line up the jumper wire and cut to length.
+<p float="center">
+  <img src="https://github.com/Shrike-Lab/HomeLab-PDU-V1/blob/main/Images/Assembly/AS_02.JPG" width="80%" /> 
+</p>
+<br>
+
+Jumper wire cut to length.
+<p float="center">
+  <img src="https://github.com/Shrike-Lab/HomeLab-PDU-V1/blob/main/Images/Assembly/AS_03.JPG" width="80%" /> 
+</p>
+<br>
+
+Align the jumper with the bend line on the opposite side from the first step.
+<p float="center">
+  <img src="https://github.com/Shrike-Lab/HomeLab-PDU-V1/blob/main/Images/Assembly/AS_04.JPG" width="80%" /> 
+</p>
+<br>
+
+While holding the jumper in place, bend around the corner.
+<p float="center">
+  <img src="https://github.com/Shrike-Lab/HomeLab-PDU-V1/blob/main/Images/Assembly/AS_05.JPG" width="80%" /> 
+</p>
+<br>
+
+On the same edge used to cut the jumper to length, there is small notch which is used to show how far back to strip the wire.
+<p float="center">
+  <img src="https://github.com/Shrike-Lab/HomeLab-PDU-V1/blob/main/Images/Assembly/AS_06.JPG" width="80%" /> 
+</p>
+<br>
+
+Strip both ends according to this mark and the jumper wire is complete.
+<p float="center">
+  <img src="https://github.com/Shrike-Lab/HomeLab-PDU-V1/blob/main/Images/Assembly/AS_07.JPG" width="80%" /> 
+</p>
+<br>
+
+To prep the PD module, first attach the smaller (7mmx7mm) heatsink to the top of XMP PD chip, aligning the heatsinks horizontally.
+<p float="center">
+  <img src="https://github.com/Shrike-Lab/HomeLab-PDU-V1/blob/main/Images/Assembly/AS_09.JPG" width="80%" /> 
+</p>
+<br>
+
+Then attach the larger (10mmx10mm) to the inductor, also aligning horizontally.
+<p float="center">
+  <img src="https://github.com/Shrike-Lab/HomeLab-PDU-V1/blob/main/Images/Assembly/AS_10.JPG" width="80%" /> 
+</p>
+<br>
+
+To solder the jumpers on, it's highly recommended to hold the PD board in place with helping hands or a clamp.
+<p float="center">
+  <img src="https://github.com/Shrike-Lab/HomeLab-PDU-V1/blob/main/Images/Assembly/AS_11.JPG" width="80%" /> 
+</p>
+<br>
+
+Take a 90 degree pin header and cut it from the stack, then solder in place on the positive terminal as shown.
+<p float="center">
+  <img src="https://github.com/Shrike-Lab/HomeLab-PDU-V1/blob/main/Images/Assembly/AS_12.JPG" width="80%" /> 
+</p>
+<br>
+
+Flip around and solder the jumper wire onto the negative terminal of the PD module.
+<p float="center">
+  <img src="https://github.com/Shrike-Lab/HomeLab-PDU-V1/blob/main/Images/Assembly/AS_13.JPG" width="80%" /> 
+</p>
+<br>
+
+Insert the module onto the main board, hold in place with either the PCB tray or dedicated bracket, then solder.
+<p float="center">
+  <img src="https://github.com/Shrike-Lab/HomeLab-PDU-V1/blob/main/Images/Assembly/AS_14.JPG" width="80%" /> 
+</p>
+<br>
+
+Cut 4 straight jumpers and solder the buck converter in its dedicated spot. Making sure to line up the input and output pins correctly.
+<p float="center">
+  <img src="https://github.com/Shrike-Lab/HomeLab-PDU-V1/blob/main/Images/Assembly/AS_15.JPG" width="80%" /> 
+</p>
+<br>
+
+
+
+
+
+
+
+
+

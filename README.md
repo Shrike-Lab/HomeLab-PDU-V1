@@ -78,7 +78,6 @@ There's a lot of ground to cover with this repo, so if you find an issue, please
 
 ### ToDo:
 - Export all sheet metal STEP files in 1.2mm thickness for imperial
-- Add 40mm fan guide and buck converter writeup
 
 # Variants:
 All variants are built around a Meanwell HRP-300-24 and the same PCB. The housings are designed to fit in 1U of space in either a 10in and 19in server rack. 
