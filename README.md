@@ -188,5 +188,5 @@ If you build, modify, or use this project, you do so entirely at your own risk. 
 This project is licensed under the CERN Open Hardware Licence Version 2 - Strongly Reciprocal (CERN-OHL-S v2).
 You may use, study, modify, and distribute this design and its documentation, provided that any derivatives are licensed under the same terms. Source design files must be made available to anyone who receives the hardware or design files.
 
-Learn more at [ohwr.org](ohwr.org).
+Learn more about the license at [ohwr.org](https://ohwr.org).
 
