@@ -42,6 +42,7 @@ This project helps fix this by consolidating power delivery for up to 10 65W mic
 <br>
 
 ### Features:
+- Imperial sheet metal compatible for the 10in single variant!
 - Both 19" and 10" variants
 - Up to 10 x 65W USB-C outputs
 - 1U Height
@@ -57,6 +58,7 @@ This project helps fix this by consolidating power delivery for up to 10 65W mic
   - **CAD** - CAD files for all varients, universal files and drawings of components
     - **Universal** - Files thats are used for multiple variants
     - 10in_Single
+    - 10in_Single_Imperial - edited for .048" (1.2mm) sheet metal, SendCutSend compatible
     - 10in_Dual
     - 10in_3D_Modular
     - 10in_3D_Unibody
